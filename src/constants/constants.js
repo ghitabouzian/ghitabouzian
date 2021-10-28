@@ -53,6 +53,15 @@ export const projects = [
     visit: 'https://docs.google.com/document/d/1OZyHREBywRuTvW-DNJsFfY0Qr2SZpZRXLkab8ILeiFs/edit?usp=sharing',
     id: 5,
   },
+  {
+    title: 'Art Portfolio',
+    description: "You can check out my paintings by clicking on source!",
+    image: '/images/paint.png',
+    tags: ['Art'],
+    source: 'https://docs.google.com/presentation/d/1op2zP00aYXHm8YReh6ZnQrJWHeEqGM7dbreyHiPrSYI/edit?usp=sharing',
+    visit: 'https://docs.google.com/presentation/d/1op2zP00aYXHm8YReh6ZnQrJWHeEqGM7dbreyHiPrSYI/edit?usp=sharing',
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
